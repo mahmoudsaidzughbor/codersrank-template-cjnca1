@@ -1,8 +1,7 @@
-		a.w3s:active {
-			background-color: yellow;
-		}
-
-    #pseudo-element::first-line{
-       color:#f00;
-    }
-    
+a.w3s:active {
+  background-color: yellow;
+  }
+  
+#pseudo-element::first-line{
+ color:#f00;
+  }
