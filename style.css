@@ -10,3 +10,14 @@ a.w3s:active {
   color:darkblue;
   font-size:xx-large;
 }
+
+h2::before{
+  content:"_Before_";
+  background-color:lightgreen;
+  color:orangered;
+  font-weight:inherit;
+}
+::selection{
+  color:darkslateblue;
+  background-color: darkturquoise;
+}
