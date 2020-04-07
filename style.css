@@ -5,3 +5,8 @@ a.w3s:active {
 #pseudo-element::first-line{
  color:#f00;
   }
+
+#pseudo-element::first-letter{
+  color:darkblue;
+  font-size:xx-large;
+}
