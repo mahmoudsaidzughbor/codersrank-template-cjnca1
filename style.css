@@ -42,3 +42,8 @@ if connected to other words or not...
   background-color:yellowgreen;
 /* this one $ >> is really cool becuse you can align-content: use it wiether it's connected to other words with huffine or without .... */
 }
+/* using just any text regardells where there place is...*/
+
+[class*=""]{
+  background-color:deeppink;
+}
