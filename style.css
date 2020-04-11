@@ -38,4 +38,7 @@ or just to work with word regardless
 if connected to other words or not...
 [class^='w3s']{....} 
 */
-
+[class$='ten']{
+  background-color:yellowgreen;
+/* this one $ >> is really cool becuse you can align-content: use it wiether it's connected to other words with huffine or without .... */
+}
