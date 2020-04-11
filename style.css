@@ -29,3 +29,7 @@ iframe[name='b']{
 [title~=flower]{
   border: 1px dashed red;
 }
+
+[class|=w3s]{
+  background-color: yellow;
+}
