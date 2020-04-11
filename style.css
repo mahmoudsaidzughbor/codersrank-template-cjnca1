@@ -33,3 +33,9 @@ iframe[name='b']{
 [class|=w3s]{
   background-color: yellow;
 }
+/*
+or just to work with word regardless
+if connected to other words or not...
+[class^='w3s']{....} 
+*/
+
