@@ -25,3 +25,7 @@ p::selection{
 iframe[name='b']{
   background-color: skyblue;
 }
+
+[title~=flower]{
+  border: 1px dashed red;
+}
