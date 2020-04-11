@@ -11,13 +11,13 @@ a.w3s:active {
   font-size:xx-large;
 }
 
-h2::before{
+h2[align]::before{
   content:"_Before_";
   background-color:lightgreen;
   color:orangered;
   font-weight:inherit;
 }
-::selection{
+p::selection{
   color:darkslateblue;
   background-color: darkturquoise;
 }
