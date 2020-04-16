@@ -49,9 +49,17 @@ if connected to other words or not...
 }
 
 body{
- background-image:url("https://usathss.files.wordpress.com/2019/03/rise.v1.jpg?w=1000&h=600&crop=1");
+ background-image:url("https://storage.needpix.com/rsynced_images/blue-fabric-textured-background.jpg");
  background-repeat: no-repeat;
- background-position: right bottom;
+ background-position: right ;
+ background-attachment: fixed; /* OR scroll */
+ /* 
+   The shorthand for background  Like this 
+   background: background-color background-image background-repeat background-attachment background-position;
+   For ex >>   background: #ffffff url("img_tree.png") no-repeat right top;
+ 
+ */
+ 
 }
 
 h1{
