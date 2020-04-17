@@ -44,24 +44,20 @@ if connected to other words or not...
 }Bisque
 /* using just any text regardells where there place is...*/
 
-body{
+
+.myDiv{
  position: relative; /* $$$  */
- z-index: 1;
+ z-index: 5;
 } 
 
-.body .bg{
+
+.myDiv .background_blue{
  background-image:url("https://storage.needpix.com/rsynced_images/blue-fabric-textured-background.jpg");
  background-repeat: no-repeat;
  background-position: right ;
- background-attachment: fixed; /* OR scroll */
- /* 
-   The shorthand for background  Like this 
-   background: background-color background-image background-repeat background-attachment background-position;
-   For ex >>   background: #ffffff url("img_tree.png") no-repeat right top;
- 
- */
-  opacity: .3;
+ background-attachment: fixed; 
   position: absolute; /* $$$  */
+  opacity: .3;
   z-index: -1;
 
 }
