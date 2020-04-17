@@ -48,8 +48,14 @@ if connected to other words or not...
   background-color:deeppink;
 }
 
+
 body{
- background-image:url("https://storage.needpix.com/rsynced_images/blue-fabric-textured-background.jpg");
+ position: relative; /* $$$  */
+ z-index: 1;
+} 
+
+.body .bg{
+  background-image:url("https://storage.needpix.com/rsynced_images/blue-fabric-textured-background.jpg");
  background-repeat: no-repeat;
  background-position: right ;
  background-attachment: fixed; /* OR scroll */
@@ -59,8 +65,12 @@ body{
    For ex >>   background: #ffffff url("img_tree.png") no-repeat right top;
  
  */
- 
+  opacity: .3;
+  position: absolute; /* $$$  */
+  z-index: -1;
+
 }
+
 
 h1{
   border: 1px dashed chocolate;
