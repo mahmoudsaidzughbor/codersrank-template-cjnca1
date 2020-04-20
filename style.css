@@ -22,8 +22,14 @@ p::selection{
   background-color: darkturquoise;
 }
 
-iframe[name='b']{
+iframe[name='a']{
   background-color: skyblue;
+  border-right-style: dotted;
+
+}
+iframe{
+    border-style: double;
+
 }
 
 [title~=flower]{
