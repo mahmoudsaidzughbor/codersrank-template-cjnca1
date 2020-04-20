@@ -25,6 +25,7 @@ p::selection{
 iframe[name='a']{
   background-color: skyblue;
   border-right-style: dotted;
+  /* JUST AS A note >> you can chosee four values for border-style */
 
 }
 iframe{
@@ -72,7 +73,7 @@ if connected to other words or not...
 
 
 h1{
-  border: 1px dashed chocolate;
+  border: 1px dashed chocolate; /* this is css_border_shorthand */ 
 }
 
 h2{
