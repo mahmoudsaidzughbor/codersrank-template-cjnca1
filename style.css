@@ -4,7 +4,10 @@ a.w3s:active {
   
 #pseudo-element{
   border-left:5px solid #f00;
-  background-color: lightgrayl;
+  background-color: lightgray;
+  padding-left: 12px;
+  padding-bottom: 7px;
+  border-radius:3em; 
 }  
 #pseudo-element::first-line{
  color:#f00;
