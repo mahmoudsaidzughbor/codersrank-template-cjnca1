@@ -4,7 +4,7 @@ a.w3s:active {
   
 #pseudo-element{
   border-left:5px solid #f00;
-
+  background-color: lightgrayl;
 }  
 #pseudo-element::first-line{
  color:#f00;
