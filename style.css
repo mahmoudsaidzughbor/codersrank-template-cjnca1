@@ -2,9 +2,12 @@ a.w3s:active {
   background-color: yellow;
   }
   
+#pseudo-element{
+  border-left:5px solid #f00;
+
+}  
 #pseudo-element::first-line{
  color:#f00;
- 
   }
 
 #pseudo-element::first-letter{
