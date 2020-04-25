@@ -54,7 +54,7 @@ iframe[name='a']{
 .bb iframe[name='b']{
   width: 300px;
   border-color:hsl(280, 20%, 50%);
-  box-sizing: border-box;
+  box-sizing: border-box; /* to get the real width without any adding from padding left and right */
 }
 
 
