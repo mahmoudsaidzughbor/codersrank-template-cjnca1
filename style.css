@@ -50,6 +50,10 @@ iframe[name='a']{
   background-color: darkgray;
 
 }
+.heading_bb{
+  margin: 10px 20px 10px 985px;
+
+}
 
 .bb iframe[name='b']{
   width: 300px;
