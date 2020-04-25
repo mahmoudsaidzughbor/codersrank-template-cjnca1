@@ -37,16 +37,13 @@ iframe[name='a']{
   border-width:medium; /* thin medium thick  or numbers with units... */
   border-color:green;
 }
-iframe[name='b']{
-  margin-left:center; 
-}
-
 
 iframe{
     border-style: double;
     border-width:5px 8px; /*thats means 5px for top and bottom, 8px for left and right 
     NOTE >> if you put four it's mean round like clockwise...  the same thing with color in four sides .... */ 
     border-color:hsl(280, 20%, 50%);
+    margin-left: auto;
 }
 
 [title~=flower]{
