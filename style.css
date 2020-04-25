@@ -41,19 +41,27 @@ iframe[name='a']{
   /* JUST AS A note >> you can chosee four values for border-style */
   border-width:medium; /* thin medium thick  or numbers with units... */
   border-color:green;
-  margin: 15px auto 15px 500px ;
+  margin: 15px auto 35px 500px ;
 
 }
-iframe[name='b']{
-  margin: 10px 0px 10px 1000px;
+.bb{
+  margin: 10px 20px 10px 985px;
+  padding: 18px 0px 50px 20px;
+  background-color: darkgray;
+
+}
+
+.bb iframe[name='b']{
+  width: 300px;
+  border-color:hsl(280, 20%, 50%);
+  box-sizing: border-box;
 }
 
 
 iframe{
     border-style: double;
-    border-width:5px 8px; /*thats means 5px for top and bottom, 8px for left and right 
+    border-width:7px; /*thats means 5px for top and bottom, 8px for left and right 
     NOTE >> if you put four it's mean round like clockwise...  the same thing with color in four sides .... */ 
-    border-color:hsl(280, 20%, 50%);
 }
 
 [title~=flower]{
