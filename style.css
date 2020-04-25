@@ -44,25 +44,34 @@ iframe[name='a']{
   margin: 15px auto 35px 500px ;
 
 }
-.bb{
-  width: 300px;
-  margin: 10px 20px 10px 985px;
-  padding: 20px;
-  background-color: darkgray;
 
-}
-.heading_bb{
+.heading_bb_01{
   width: 300px;
   margin: 10px 20px 10px 985px;
   background-color:yellow;
 
 }
 
-.bb iframe[name='b']{
-  border-color:hsl(280, 20%, 50%);
+.bb_01{
+  width: 300px;
+  margin: 10px 20px 10px 985px;
   padding: 20px;
+  background-color: darkgray;
+
+}
+
+.bb_02{
+  width: 300px;
+  margin: 10px 20px 10px 985px;
+  padding: 20px;
+  background-color: darkgray;
   box-sizing: border-box; /* you should put the box-sizing inside the same class take the padding one ...
                            to get the real width without any adding from padding left and right */
+}
+
+.bb_01 iframe[name='b']{
+  border-color:hsl(280, 20%, 50%);
+  
 }
 
 
