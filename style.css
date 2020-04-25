@@ -41,9 +41,11 @@ iframe[name='a']{
   /* JUST AS A note >> you can chosee four values for border-style */
   border-width:medium; /* thin medium thick  or numbers with units... */
   border-color:green;
+  margin: 15px auto 15px 500px ;
+
 }
 iframe[name='b']{
-  margin: 10px 0px 10px 500px;
+  margin: 10px 0px 10px 1000px;
 }
 
 
