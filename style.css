@@ -46,14 +46,14 @@ iframe[name='a']{
 }
 
 .heading_bb{
-  width: 300px;
+  width: 25%;
   margin: 10px 20px 10px 985px;
   background-color:yellow;
 
 }
 
 .bb_01{
-  width: 300px;
+  width: 25%;
   margin: 10px 20px 10px 985px;
   padding: 20px;
   background-color: darkgray;
@@ -61,7 +61,7 @@ iframe[name='a']{
 }
 
 .bb_02{
-  width: 300px;
+  width: 25%;
   margin: 10px 20px 10px 985px;
   padding: 20px;
   background-color: darkgray;
