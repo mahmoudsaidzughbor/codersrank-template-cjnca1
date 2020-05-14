@@ -51,8 +51,11 @@ iframe[name='a']{
 }
 
 .aa_01{
+  border: 1.25px solid firebrick;
   width: 25%;
-  outline-style: solid;
+  outline-style:outset;
+  outline-color:grey;
+  outline-width:3px;
   margin: 10px 985px 20px 10px ;
   background-color: darkgray;
 }
