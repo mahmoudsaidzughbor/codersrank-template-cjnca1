@@ -52,7 +52,7 @@ iframe[name='a']{
 }
 
 .aa_01{
-  border: 2px solid black;
+  border: 2px solid yellow;
   width: 25%;
   outline-style:outset;
   outline-color:invert;
