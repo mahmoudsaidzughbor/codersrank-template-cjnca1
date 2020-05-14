@@ -91,13 +91,14 @@ iframe[name='a']{
 
 .bb_01 iframe[name='b']{
   border-color:hsl(280, 20%, 50%);
-  
+  display: block;
 }
 
 
 iframe{
-    border-style: double;
-    border-width:7px; /*thats means 5px for top and bottom, 8px for left and right 
+  display: block;
+  border-style: double;
+  border-width:7px; /*thats means 5px for top and bottom, 8px for left and right 
     NOTE >> if you put four it's mean round like clockwise...  the same thing with color in four sides .... */ 
 }
 
