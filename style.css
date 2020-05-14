@@ -53,12 +53,16 @@ iframe[name='a']{
 
 .aa_01{
   border: 2px solid yellow;
-  width: 25%;
+  
   outline-style:ridge;
   outline-color:pink;
   outline-width:3px;
+  outline-offset:5ex;
+  
+  width: 25%;
   margin: 10px 985px 20px 10px ;
   background-color: darkgray;
+  
   display: block; /* $$$  */
 }
 
