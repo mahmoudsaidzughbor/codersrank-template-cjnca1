@@ -48,7 +48,7 @@ iframe[name='a']{
   width: 25;
   margin: 10px 985px 20px 10px;
   background-color:crimson;
-  display: block;
+  display: block; /* $$$  */
 }
 
 .aa_01{
@@ -59,14 +59,14 @@ iframe[name='a']{
   outline-width:3px;
   margin: 10px 985px 20px 10px ;
   background-color: darkgray;
-  display: block;
+  display: block; /* $$$  */
 }
 
 .heading_bb{
   width: 25%;
   margin: 10px 20px 10px 985px;
   background-color:yellow;
-  display: block;
+  display: block; /* $$$  */
 }
 
 .bb_01{
@@ -74,7 +74,7 @@ iframe[name='a']{
   margin: 10px 20px 10px 985px;
   padding: 10px;
   background-color: darkgray;
-  display: block;
+  display: block; /* $$$  */
 }
 
 
@@ -85,18 +85,18 @@ iframe[name='a']{
   background-color: darkgray;
   box-sizing: border-box; /* you should put the box-sizing inside the same class take the padding one...
                            to get the real width without any adding from padding left and right */
-  display: block;
+  display: block; /* $$$  */
 }
 
 
 .bb_01 iframe[name='b']{
   border-color:hsl(280, 20%, 50%);
-  display: block;
+  display: block; /* $$$  */
 }
 
 
 iframe{
-  display: block;
+  display: block; /* $$$  */
   border-style: double;
   border-width:7px; /*thats means 5px for top and bottom, 8px for left and right 
     NOTE >> if you put four it's mean round like clockwise...  the same thing with color in four sides .... */ 
