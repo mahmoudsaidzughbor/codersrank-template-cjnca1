@@ -57,7 +57,7 @@ iframe[name='a']{
   outline-style:ridge;
   outline-color:pink;
   outline-width:3px;
-  outline-offset:5ex;
+  outline-offset:5px;
   
   width: 25%;
   margin: 10px 985px 20px 10px ;
