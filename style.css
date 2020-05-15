@@ -87,7 +87,7 @@ iframe[name='a']{
   margin: 10px 20px 10px 985px;
   padding: 10px;
   background-color: darkgray;
-  box-sizing: border-box; /* you should put the box-sizing inside the same class take the padding one...
+  box-sizing: border-box; /* you should put the box-sizing inside same class take the padding one...
                            to get the real width without any adding from padding left and right */
   display: block; /* $$$  */
 }
