@@ -24,6 +24,10 @@ a.w3s:active {
   font-size:xx-large;
 }
 
+.icon{
+  https://www.flaticon.com/premium-icon/icons/svg/2401/2401480.svg);
+}
+
 h2[align]::before{
   content:"_Before_";
   background-color:lightgreen;
