@@ -164,6 +164,12 @@ h2{
   opacity:.65;
 }
 
-a{
+.w3s-top-one{
   text-decoration: none;
+}
+.w3s-top-ten{
+  text-decoration:line-through;
+}
+.w3stop-one{
+  text-decoration: overline;
 }
