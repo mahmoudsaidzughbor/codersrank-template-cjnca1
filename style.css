@@ -26,6 +26,9 @@ a.w3s:active {
 
 .icon{
   background-image: url(https://www.flaticon.com/premium-icon/icons/svg/2401/2401480.svg);
+  vertical-align: middle;
+  
+
 }
 
 h2[align]::before{
