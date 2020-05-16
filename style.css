@@ -25,12 +25,12 @@ a.w3s:active {
 }
 
 .icon{
-  width: 15px;
-  height: 15px;
+  width:50px;
+  height:50px;
   background-repeat: no-repeat;
   background-image: url(https://www.flaticon.com/premium-icon/icons/svg/2401/2401480.svg);
-  vertical-align: middle;
-
+  /*vertical-align: middle;
+*/
 
 }
 
